@@ -6,7 +6,6 @@
         href="https://github.com/ahmetaltun/vue-country-dropdown/"
         target="_blank"
         content="Github"
-        v-tippy="{ placement: 'top',  arrow: true }"
       >
         <svg
           viewBox="0 0 17 16"
@@ -39,7 +38,6 @@
         href="https://www.npmjs.com/package/vue-country-dropdown/"
         target="_blank"
         content="Npmjs"
-        v-tippy="{ placement: 'top',  arrow: true }"
       >
         <svg
           viewBox="0 0 2500 2500"
