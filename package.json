@@ -14,10 +14,10 @@
   "dependencies": {
     "core-js": "^3.25.5",
     "nuxt": "^2.15.8",
-    "vue": "^2.7.10",
+    "vue": "^2.7.13",
     "vue-country-dropdown": "^2.0.8",
     "vue-server-renderer": "^2.7.10",
-    "vue-template-compiler": "^2.7.10",
+    "vue-template-compiler": "^2.7.13",
     "vue-tippy": "^4.16.0",
     "webpack": "^4.46.0"
   },
