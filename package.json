@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "core-js": "^3.30.2",
-    "nuxt": "^2.16.3",
+    "nuxt": "^3.5.1",
     "vue": "^2.7.14",
     "vue-country-dropdown": "^2.0.8",
     "vue-server-renderer": "^2.7.14",
